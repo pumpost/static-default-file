@@ -1,0 +1,24 @@
+{
+  "name": "static-default-file",
+  "version": "1.0.0",
+  "description": "node.js set default file in directory.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pumpost/static-default-file.git"
+  },
+  "keywords": [
+    "node.js",
+    "static",
+    "file"
+  ],
+  "author": "Piti Saengnark <p_um_p@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pumpost/static-default-file/issues"
+  },
+  "homepage": "https://github.com/pumpost/static-default-file#readme"
+}
