@@ -1,6 +1,6 @@
 {
   "name": "static-default-file",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "node.js set default file in directory.",
   "main": "lib/index.js",
   "scripts": {
